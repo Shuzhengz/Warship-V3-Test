@@ -8,11 +8,3 @@ core_cm3.hµÈ¼¸¸öÎÄ¼þ·ÅÔÚ:SYSTEM\sys ÎÄ¼þ¼ÐÀïÃæ)£¬Ê¹µÃ´úÂë¿ÉÒÔÍêÃÀÒÆÖ²µ½¿âº¯ÊýÀïÃ
 16KB¡ÜFLASH¡Ü32KB       Ñ¡Ôñ£ºSTM32F10X_LD
 64KB¡ÜFLASH¡Ü128KB      Ñ¡Ôñ£ºSTM32F10X_MD
 256KB¡ÜFLASH¡Ü512KB     Ñ¡Ôñ£ºSTM32F10X_HD
-
-                                                   ÕýµãÔ­×Ó@ALIENTEK
-                                                   ¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾ 
-                                                   ´«Õæ£º020-36773971
-                                                   µç»°£º020-38271790
-                                                   ÍøÖ·£ºwww.alientek.com
-                                                   ÂÛÌ³£ºwww.openedv.com
- 
