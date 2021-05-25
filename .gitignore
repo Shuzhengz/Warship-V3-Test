@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# VS Code Setting Folder
+.vs/
+
+# MDK5 Folders
+Listings/
+DebugConfig/
+Objects/
